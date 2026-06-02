@@ -1,98 +1,141 @@
-<!-- Tag Block Start -->
-
 <h1 align="center">Hi 👋, I'm Nikit Singh Kanyal</h1>
-<h3 align="center">I am pursing Software Testing Training from QSpiders and completed my Bachelor in Computer Application degree from Maharishi University of Information Techonology and currently working to be a successful SWE as a Manual/Automation Test Engineer. This is the place where I show my code and break others</h3>
 
-<!-- Tag Block End -->
+<h2 align="center">Java Backend Developer | MCA Student | Google Cloud ACE Certified</h2>
 
-<!-- Stats, Badges Block Start-->
+<p align="center">
+Passionate Software Developer with a strong interest in Backend Development, Database Systems, Cloud Computing, and Software Engineering. Currently pursuing a Master of Computer Applications (MCA) at Integral University and continuously building practical projects while expanding my expertise in Java-based application development.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikit-370&show_icons=true&locale=en&layout=compact" alt="nikit-370" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikit-370&show_icons=true&locale=en" alt="nikit-370" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikit-370&" alt="nikit-370" /></p><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikit-370&label=Profile%20views&color=0e75b6&style=flat" alt="nikit-370" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikit-370" alt="nikit-370" /></a></p>
+<h2 align="center">🌐 Connect With Me</h2>
 
-<!-- Stats, Badges Block End -->
+<p align="center">
+<a href="https://twitter.com/KanyalNikit" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+</a>
 
-<!-- Twitter link Block Start -->
-<p align="left"> <a href="https://twitter.com/kanyalnikit" target="blank"><img src="https://img.shields.io/twitter/follow/kanyalnikit?logo=twitter&style=for-the-badge" alt="kanyalnikit" /></a> </p>
+<a href="https://www.linkedin.com/in/nikit-singh-kanyal-221201220/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 
-<!-- Twitter link Block End -->
+<a href="https://www.facebook.com/profile.php?id=100076327701571/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+</a>
 
-<!-- About Block Start -->
-- 🔭 I’m currently working on **My Skills**
-- 🌱 I’m currently learning **Cloud Technology and Information Security**
-- 💬 Ask me about **Ethical Hacking and Cloud Tech**
-- 📄 Wanna know more about me here is my <a href="https://drive.google.com/drive/folders/1QavKR3BdKAIcF83SvRnmkVLJRVJQNNyV" target="blank"> Curriculum Vitae</a>
-- ⚡ Fun fact **I think, I am Stupid 🤣 beacuse I don't use comments.**
+<a href="https://www.instagram.com/sudo_eh_guy_nikit/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
 
-<!-- About Block End -->
+<a href="https://www.hackerrank.com/nikit307?hr_r=1" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+</a>
 
-<!-- Joke Block Start -->
-<p><h3>Lets have a joke ;)</h3>
+<a href="https://leetcode.com/nikit_307/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-<!-- Joke Block  End-->
+<a href="https://www.hackerearth.com/@nikitsingh2001" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
+</a>
 
-<!-- Other Profiles Block Start -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/KanyalNikit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Nikit-Twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nikit-singh-kanyal-221201220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nikit-Linkedin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100076327701571/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nikit-FaceBook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sudo_eh_guy_nikit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nikit-Instagram" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nikit307?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Nikit-HackerRank" height="30" width="40" /></a>
-<a href="https://leetcode.com/nikit_307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Nikit-LeetCode" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@nikitsingh2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="Nikit-HackerEarth" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nikit307/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Nikit-GFG" height="30" width="40" /></a></p>
+<a href="https://auth.geeksforgeeks.org/user/nikit307/profile" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+</a>
+</p>
 
-<!-- Other Profiles Block End -->
 
-<!-- Languages and Tech used Block Start -->
+<h2 align="center">📊 GitHub Statistics</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
-</a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=nikit-370&show_icons=true&locale=en"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikit-370&layout=compact&locale=en"> </p>
 
-<!-- Languages and Tech used Block End -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikit-370" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikit-370&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+
+
+## 🚀 About Me
+
+* 🎓 Pursuing **Master of Computer Applications (MCA)** from **Integral University**
+* 💻 Passionate about **Java Backend Development, Database Systems, and Cloud Technologies**
+* ☁️ **Google Cloud Associate Cloud Engineer (ACE)**
+* 🏆 **TCS National Qualifier Test (NQT) 2026 – Digital Role**
+* 🌱 Currently learning **Backend Architecture, REST APIs, System Design, and Cloud Technologies**
+* 🔍 Experience with **Software Testing, Manual Testing, and Selenium Automation**
+* 📄 Wanna know more about me? Check out my **[Curriculum Vitae](https://drive.google.com/drive/folders/1QavKR3BdKAIcF83SvRnmkVLJRVJQNNyV)**
+
+
+
+## 🏅 Certifications
+
+### ☁️ Google Cloud
+
+* Google Cloud Associate Cloud Engineer (ACE)
+
+### 💻 HackerRank Skill Certifications
+
+* Software Engineer Intern ⭐ Verified
+* Software Engineer ⭐ Verified
+* Frontend Developer (React) ⭐ Verified
+
+### 🏆 Achievements
+
+* TCS NQT 2026 – Digital Role
+
+
+
+## 🛠️ Technical Skills
+
+| Area              | Technologies                                                                                                    |
+| ----------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Languages**     | Java, SQL, Python, C++                                                                                          |
+| **Backend**       | Core Java, JDBC, Servlets, REST APIs, MVC                                                                       |
+| **Frontend**      | HTML5, CSS3, JavaScript, React, JSP, Bootstrap                                                                  |
+| **Databases**     | MySQL, PostgreSQL, MongoDB                                                                                      |
+| **Cloud & Tools** | GCP, Git, GitHub, Linux, XAMPP                                                                                  |
+| **Cybersecurity** | Information Security, Web Security Fundamentals, Network Security, Vulnerability Assessment, Phishing Detection |
+| **Testing**       | Manual Testing, Selenium WebDriver, Test Case Design, Bug Reporting                                             |
+
+
+
+
+## 📌 Featured Projects
+
+### 🎓 Student Management System
+
+A Java-based web application built with JSP, Servlets, JDBC, and MySQL following the MVC architecture. The system enables efficient management of student records through complete CRUD operations while demonstrating enterprise Java development and database integration.
+
+### 🛍️ Shopping Product Filter & Wishlist System
+
+A Java-based shopping management application featuring product filtering, custom sorting using Comparators, and wishlist management built with OOP principles and the Java Collections Framework.
+
+### 🔐 PhishGuard
+
+A phishing detection platform that combines URL analysis, machine learning techniques, and domain intelligence to identify potentially malicious websites.
+
+### 📚 Java DSA Quick Revision
+
+A comprehensive collection of Data Structures and Algorithms concepts, implementations, and revision notes in Java. The repository serves as a quick reference for interview preparation and problem-solving, covering commonly used data structures, algorithms, and coding patterns.
+
+
+
+## 💡 Current Focus
+
+* Java Backend Development
+* Database Design & Optimization
+* Cloud Computing with Google Cloud Platform
+* Software Engineering Best Practices
+* Software Testing & Quality Assurance
+
+
+
+### ⚡ Fun Fact
+
+I enjoy building practical software solutions, exploring new technologies, and continuously improving my development and problem-solving skills.
+
+
+
+> **"Turning ideas into reliable software through continuous learning and practical development."**
