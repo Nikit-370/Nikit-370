@@ -1,0 +1,95 @@
+name: Sync Socials from Google Sheet
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # Runs automatically every 12 hours
+  workflow_dispatch:        # Allows 1-click manual trigger anytime
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Auto-Sync Social Cards
+        run: |
+          python - << 'EOF'
+          import urllib.request
+          import re
+          import csv
+          import io
+
+          CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vStbIGp4hG8YGuvBZkViGlXIVCoQZZRq7RXkg-0Aky9jSbbL6ZSuDF2hzK7EtT8fh6krc8FxJP1B99-/pub?gid=0&single=true&output=csv"
+
+          req = urllib.request.Request(CSV_URL, headers={'User-Agent': 'Mozilla/5.0'})
+          with urllib.request.urlopen(req) as resp:
+              csv_text = resp.read().decode('utf-8')
+
+          reader = csv.reader(io.StringIO(csv_text))
+          badges = []
+
+          for row in reader:
+              if not row:
+                  continue
+              plat = row[0].strip()
+              url = row[1].strip() if len(row) > 1 else ""
+              custom_icon = row[2].strip() if len(row) > 2 else ""
+
+              norm_key = re.sub(r'[^a-z0-9]', '', plat.lower())
+
+              # 1. STOP immediately when reaching FIXED PAGE LINKS divider
+              # (Never touches Resume, Email, Projects, Education, etc.)
+              if 'fixed' in norm_key:
+                  break
+
+              # Skip header or empty lines
+              if not norm_key or not url or norm_key in {'platform', 'name', 'key'}:
+                  continue
+              if not re.match(r'^https?://', url, re.I):
+                  continue
+
+              # 2. Get icon directly from SimpleIcons CDN (or Column C if provided)
+              if custom_icon and re.match(r'^https?://', custom_icon):
+                  icon_url = custom_icon
+              else:
+                  icon_url = f"https://cdn.simpleicons.org/{norm_key}"
+
+              badge_html = f'<a href="{url}" target="blank">\n<img align="center" src="{icon_url}" alt="{plat}" height="32" width="32" style="margin: 0 4px;" />\n</a>'
+              badges.append(badge_html)
+
+          new_html = '\n<p align="center">\n' + '\n\n'.join(badges) + '\n</p>\n'
+
+          # Update README.md between the comment markers
+          with open("README.md", "r", encoding="utf-8") as f:
+              readme = f.read()
+
+          pattern = r'(<!-- START_SOCIAL -->)[\s\S]*?(<!-- END_SOCIAL -->)'
+          if re.search(pattern, readme):
+              updated_readme = re.sub(pattern, f'\\1{new_html}\\2', readme)
+              with open("README.md", "w", encoding="utf-8") as f:
+                  f.write(updated_readme)
+              print(f"Successfully synced {len(badges)} social cards in exact sheet order!")
+          else:
+              print("Markers <!-- START_SOCIAL --> and <!-- END_SOCIAL --> not found.")
+          EOF
+
+      - name: Commit and Push If Changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes in social cards."
+          else
+            git commit -m "Auto-sync profile social cards from Google Sheet"
+            git push
+          fi
