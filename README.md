@@ -10,52 +10,41 @@ Passionate Software Developer with a strong interest in Backend Development, Dat
 
 <!-- START_SOCIAL -->
 <p align="center">
-<a href="https://www.linkedin.com/in/eh-nikit-singh-kanyal/" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" height="32" width="32" style="margin: 0 4px;" />
+<a href="https://www.linkedin.com/in/eh-nikit-singh-kanyal/" target="_blank">
+  <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="margin-right: 5px; margin-bottom: 5px;" />
 </a>
-
-<a href="https://www.instagram.com/sudo_eh_guy_nikit/" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/instagram" alt="Instagram" height="32" width="32" style="margin: 0 4px;" />
+<a href="https://www.instagram.com/sudo_eh_guy_nikit/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-right: 5px; margin-bottom: 5px;" />
 </a>
-
-<a href="https://x.com/KanyalNikit" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/x" alt="X" height="32" width="32" style="margin: 0 4px;" />
+<a href="https://x.com/KanyalNikit" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" style="margin-right: 5px; margin-bottom: 5px;" />
 </a>
-
-<a href="https://github.com/Nikit-370/" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/github" alt="GitHub" height="32" width="32" style="margin: 0 4px;" />
+<a href="https://github.com/Nikit-370/" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-right: 5px; margin-bottom: 5px;" />
 </a>
-
-<a href="https://www.codechef.com/users/rag_ring_78" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/codechef" alt="CodeChef" height="32" width="32" style="margin: 0 4px;" />
+<a href="https://www.codechef.com/users/rag_ring_78" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" style="margin-right: 5px; margin-bottom: 5px;" />
 </a>
-
-<a href="https://leetcode.com/u/nikit_307" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" height="32" width="32" style="margin: 0 4px;" />
+<a href="https://leetcode.com/u/nikit_307" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin-right: 5px; margin-bottom: 5px;" />
 </a>
-
-<a href="https://www.geeksforgeeks.org/profile/nikit307" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/geeksforgeeks" alt="GeeksforGeeks" height="32" width="32" style="margin: 0 4px;" />
+<a href="https://www.geeksforgeeks.org/profile/nikit307" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" style="margin-right: 5px; margin-bottom: 5px;" />
 </a>
-
-<a href="https://www.hackerrank.com/profile/nikit307" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" height="32" width="32" style="margin: 0 4px;" />
+<a href="https://www.hackerrank.com/profile/nikit307" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" style="margin-right: 5px; margin-bottom: 5px;" />
 </a>
-
-<a href="https://tryhackme.com/p/Nikit370" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/tryhackme" alt="TryHackMe" height="32" width="32" style="margin: 0 4px;" />
+<a href="https://tryhackme.com/p/Nikit370" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" style="margin-right: 5px; margin-bottom: 5px;" />
 </a>
-
-<a href="https://www.hackerearth.com/@nikit307/" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/hackerearth" alt="HackerEarth" height="32" width="32" style="margin: 0 4px;" />
+<a href="https://www.hackerearth.com/@nikit307/" target="_blank">
+  <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" style="margin-right: 5px; margin-bottom: 5px;" />
 </a>
-
-<a href="https://www.codingame.com/profile/c5420f43d859fb94fa2d88c32f4da0b78552567" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/codingame" alt="CodinGame" height="32" width="32" style="margin: 0 4px;" />
+<a href="https://www.codingame.com/profile/c5420f43d859fb94fa2d88c32f4da0b78552567" target="_blank">
+  <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white" alt="CodinGame" style="margin-right: 5px; margin-bottom: 5px;" />
 </a>
-
-<a href="https://www.credly.com/users/nikit-singh-kanyal" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/credly" alt="Credly" height="32" width="32" style="margin: 0 4px;" />
+<a href="https://www.credly.com/users/nikit-singh-kanyal" target="_blank">
+  <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" style="margin-right: 5px; margin-bottom: 5px;" />
 </a>
 </p>
 <!-- END_SOCIAL -->
