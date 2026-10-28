@@ -2,8 +2,8 @@ name: Sync Socials from Google Sheet
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
-  workflow_dispatch:
+    - cron: '0 */12 * * *'  # Runs automatically every 12 hours
+  workflow_dispatch:        # Allows 1-click manual trigger anytime
 
 permissions:
   contents: write
@@ -79,13 +79,10 @@ jobs:
               safe_plat = urllib.parse.quote(plat)
               badge_url = f"https://img.shields.io/badge/{safe_plat}-{color}?style=for-the-badge&logo={norm_key}&logoColor=white"
 
-              badges.append(
-                  f'<a href="{url}" target="_blank">\n'
-                  f'  <img src="{badge_url}" alt="{plat}" style="margin-right: 5px; margin-bottom: 5px;" />\n'
-                  f'</a>'
-              )
+              # Clean single-line tag: removes all blue underlines
+              badges.append(f'<a href="{url}"><img src="{badge_url}" alt="{plat}" /></a>')
 
-          new_html = '\n<p align="center">\n' + '\n'.join(badges) + '\n</p>\n'
+          new_html = '\n<p align="center">\n  ' + ' '.join(badges) + '\n</p>\n'
 
           # Update README.md between the comment markers
           with open("README.md", "r", encoding="utf-8") as f:
